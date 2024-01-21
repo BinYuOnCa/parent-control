@@ -59,3 +59,4 @@ Send-MailMessage -SmtpServer smtp.gmail.com -Port 587 -UseSsl -From yubin.dmd@gm
 
 
 
+create event in task scheduler for logoff.
